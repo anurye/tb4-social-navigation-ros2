@@ -2,3 +2,6 @@ build/*
 install/*
 log/*
 site/*
+
+turtlebot4_sim/
+tb4_drl_navigation/
